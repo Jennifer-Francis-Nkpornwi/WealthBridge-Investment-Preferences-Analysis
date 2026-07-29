@@ -48,7 +48,7 @@ The insights generated help support customer segmentation, product positioning, 
 > Replace with your dashboard image after uploading it.
 
 ```
-![Dashboard](POWERBI%20DASHBOARD.png)
+![Dashboard](04%20Dashboard/POWERBI%20DASHBOARD.png)
 ```
 
 ---
