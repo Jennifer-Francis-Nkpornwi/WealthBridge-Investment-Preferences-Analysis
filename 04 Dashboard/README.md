@@ -122,5 +122,4 @@ The dashboard includes management KPIs to provide an at-a-glance view of investo
 | File | Description |
 |------|-------------|
 | **WealthBridge Dashboard.pbix** | Power BI dashboard file |
-| **DASHBOARD.png** | Dashboard preview image |
-```
+| **POWERBI DASHBOARD.png** | Dashboard preview image |
