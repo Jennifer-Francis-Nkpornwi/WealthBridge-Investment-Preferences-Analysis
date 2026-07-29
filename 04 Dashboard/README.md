@@ -101,28 +101,22 @@ Helps position Mutual Funds based on investor expectations and motivations.
 
 The dashboard includes management KPIs to provide an at-a-glance view of investor trends.
 
-- 👥 Total Respondents
-- 🎂 Average Respondent Age
-- 💹 Preferred Investment Avenue
-- 📈 Top Investment Factor
-- 🎯 Leading Savings Goal
+- Total Respondents
+- Average Respondent Age
+- Preferred Investment Avenue
+- Top Investment Factor
+- Leading Savings Goal
 
 ---
 
 # Dashboard Highlights
 
-✔ Interactive visuals
-
-✔ Executive KPI cards
-
-✔ Business-focused insights
-
-✔ Customer segmentation
-
-✔ Investment trend analysis
-
-✔ Decision-support reporting
-
+- Interactive visuals
+- Executive KPI cards
+- Business-focused insights
+- Customer segmentation
+- Investment trend analysis
+- Decision-support reporting
 ---
 
 # File
