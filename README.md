@@ -49,7 +49,9 @@ The insights generated help support customer segmentation, product positioning, 
 
 ```
 ![Dashboard](04%20Dashboard/POWERBI%20DASHBOARD.png)
-```
+
+
+![WealthBridge Dashboard](04%20Dashboard/POWERBI%20DASHBOARD.png)
 
 ---
 
