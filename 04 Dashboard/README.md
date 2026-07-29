@@ -8,7 +8,7 @@ The dashboard transforms investor survey data into interactive visualizations th
 
 # Dashboard Preview
 
-> ![Dashboard](DASHBOARD.png)
+> ![Dashboard](POWERBI%20DASHBOARD.png)
 
 ---
 
