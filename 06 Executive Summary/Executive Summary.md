@@ -1,4 +1,4 @@
-# 📄 Executive Summary
+# Executive Summary
 
 This report presents an analysis of investment preferences and behaviors based on survey responses from **40 individuals**. The objective was to help **WealthBridge Advisors** better understand its target audience, identify investment trends, and uncover the factors that influence clients' investment decisions. The analysis explored demographic characteristics, preferred investment avenues, investment motivations, savings objectives, and expected return preferences to provide actionable insights that can support customer acquisition and product positioning.
 
