@@ -45,10 +45,7 @@ The insights generated help support customer segmentation, product positioning, 
 
 ## Dashboard Preview
 
-> Replace with your dashboard image after uploading it.
-
-```
-![Dashboard](04%20Dashboard/POWERBI%20DASHBOARD.png)
+> ![Dashboard](04%20Dashboard/POWERBI%20DASHBOARD.png)
 
 
 ![WealthBridge Dashboard](04%20Dashboard/POWERBI%20DASHBOARD.png)
